@@ -25,3 +25,7 @@ frontend/dist/
 # OS files
 .DS_Store
 Thumbs.db
+# Node.js local files
+frontend/node/
+frontend/node_modules/
+
